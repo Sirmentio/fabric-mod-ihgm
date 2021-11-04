@@ -8,7 +8,7 @@
     "HunnyBon"
   ],
   "contact": {},
-  "license": "unlicense",
+  "license": "cc0",
   "icon": "assets/ihgm/icon.png",
   "environment": "server",
   "entrypoints": {
