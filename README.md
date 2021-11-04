@@ -14,11 +14,12 @@ great for survival Minecraft servers with small player counts and mixed activity
 
 </div>
 
-# Mod compatibility
+# Compatibility
 I have no idea!
 
 But in seriousness, this *shouldn't* do anything, hopefully, but there might be some funkiness
-with mods that rely on daytime ticks in some way. Caveat Emptor.
+with mods that rely on daytime ticks in some way. Caveat Emptor. This was tested on a 1.17.1 server,
+so make of that what you will.
 
 # Forge?
 This mod is small (And CC0!) so you're more than welcome to
