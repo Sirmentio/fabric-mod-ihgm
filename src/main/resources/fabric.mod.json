@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "ihgm",
+  "version": "${version}",
+  "name": "Ihgm",
+  "description": "I'm here, get moving. Stops daylight cycle ticks when there's no players online.",
+  "authors": [
+    "HunnyBon"
+  ],
+  "contact": {},
+  "license": "unlicense",
+  "icon": "assets/ihgm/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "im.hunnybon.ihgm.Ihgm"
+    ]
+  },
+  "mixins": [
+    "ihgm.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.0",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
