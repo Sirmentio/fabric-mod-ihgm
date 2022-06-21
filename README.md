@@ -4,7 +4,7 @@
 
 # I'm here, Get Moving
 
-IHGM is a mod for Minecraft 1.18.x that does one simple thing for server owners.
+IHGM is a mod for Minecraft 1.19.x that does one simple thing for server owners.
 Whenever there's no players online, IHGM will attempt, in a very ~~hacky~~ simple way,
 to pause overworld's daytime ticks.
 
